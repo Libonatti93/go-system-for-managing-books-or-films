@@ -1,0 +1,12 @@
+Code Operation:
+Add Book: Allows you to add a new book to the system.
+List Books: Displays all registered books with their details.
+Search Book: Allows you to search for books by title or author.
+Remove Book: Removes a book by ID.
+Exit: Closes the program.
+
+New Features Added:
+Add Movie: Allows you to add a new movie to the system.
+List Movies: Displays all registered movies with their details.
+Search Movie: Allows you to search for movies by title or director.
+Remove Movie: Removes a movie by ID.
